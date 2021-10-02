@@ -11,4 +11,4 @@
  - 💬 Ask me about **DevOps**
  - 📫 How to reach me: https://www.linkedin.com/in/borjam/
  - 😄 Pronouns: he / his
- - ⚡ Fun fact: *I love HeroQuest; check my [own remake](http://heroquest.herokuapp.com/inicio)!!*
+ - ⚡ Fun fact: *I love ⚔️ HeroQuest; check my [own remake](http://heroquest.herokuapp.com/inicio)!!*
