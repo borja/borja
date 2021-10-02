@@ -5,6 +5,7 @@
 </h1>
 <a href="https://www.linkedin.com/in/borjam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <hr>
+
  - 🔭 I’m currently working as ☯️ DevOps in Spain (🇪🇸)
  - 🌱 I’m currently learning 🖧 [**AWS networking**](https://aws.amazon.com/vpc/?nc1=h_ls)
  - 👯 I’m looking to collaborate on 📚 poetry projects
