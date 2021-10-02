@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;😊+This+is+Borja+Martín....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<hr>
-- 🔭 I’m currently working as ☯️ DevOps
-- 🌱 I’m currently learning 🖧 **AWS networking**
-- 👯 I’m looking to collaborate on 📚 poetry projects
-- 🤔 I’m looking for help with my talent group
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me: https://www.linkedin.com/in/borjam/
-- 😄 Pronouns: he / his
-- ⚡ Fun fact: *I love HeroQuest*
+
+ - 🔭 I’m currently working as ☯️ DevOps
+ - 🌱 I’m currently learning 🖧 **AWS networking**
+ - 👯 I’m looking to collaborate on 📚 poetry projects
+ - 🤔 I’m looking for help with my talent group
+ - 💬 Ask me about **DevOps**
+ - 📫 How to reach me: https://www.linkedin.com/in/borjam/
+ - 😄 Pronouns: he / his
+ - ⚡ Fun fact: *I love HeroQuest*
