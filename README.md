@@ -7,7 +7,7 @@
  - 🔭 I’m currently working as ☯️ DevOps in Spain (🇪🇸)
  - 🌱 I’m currently learning 🖧 [**AWS networking**](https://aws.amazon.com/vpc/?nc1=h_ls)
  - 👯 I’m looking to collaborate on 📚 poetry projects
- - 🤔 I’m looking for help with my [talent](@talent) group
+ - 🤔 I’m looking for help with my [talent](https://github.com/talent) group
  - 💬 Ask me about **DevOps**
  - 📫 How to reach me: https://www.linkedin.com/in/borjam/
  - 😄 Pronouns: he / his
