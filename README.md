@@ -4,7 +4,7 @@
   </a>
 </h1>
 
- - 🔭 I’m currently working as ☯️ DevOps
+ - 🔭 I’m currently working as ☯️ DevOps in Spain (🇪🇸)
  - 🌱 I’m currently learning 🖧 **AWS networking**
  - 👯 I’m looking to collaborate on 📚 poetry projects
  - 🤔 I’m looking for help with my talent group
