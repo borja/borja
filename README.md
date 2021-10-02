@@ -4,7 +4,7 @@
   </a>
 </h1>
 <div align=right">
-[![image of linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borjam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borjam/)
 </div>
 
  - 🔭 I’m currently working as ☯️ DevOps in Spain (🇪🇸)
