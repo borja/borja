@@ -4,6 +4,7 @@
   </a>
 </h1>
 <a href="https://www.linkedin.com/in/borjam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://discordapp.com/users/784585791417352222"><img src="https://img.shields.io/badge/discord-me-blue?logo=discord&logoColor=white"></img></a>
 <hr>
 
  - 🔭 I’m currently working as ☯️ DevOps in Spain (🇪🇸)
